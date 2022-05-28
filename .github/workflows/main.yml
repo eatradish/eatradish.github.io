@@ -26,4 +26,3 @@ jobs:
           BUILD_DIR: .
           TOKEN: ${{ secrets.zola }}
           REPOSITORY: username/username.github.io
-
