@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://blog.miraclemilk.me"
+base_url = "https://blog.miraclemilk.me"
 theme = "Seje2"
 default_language = "zh-tw"
 generate_feed = true
