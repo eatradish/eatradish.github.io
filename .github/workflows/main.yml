@@ -26,3 +26,4 @@ jobs:
           BUILD_DIR: .
           TOKEN: ${{ secrets.ZOLA_TOKEN }}
           REPOSITORY: eatradish/eatradish.github.io
+
