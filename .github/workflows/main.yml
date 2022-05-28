@@ -20,9 +20,9 @@ jobs:
       - name: 'checkout'
         uses: actions/checkout@v2
       - name: 'build and deploy'
-        uses: shalzz/zola-deploy-action@master
+        uses: shalzz/zola-deploy-action@gh-pages
         env:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.ZOLA_TOKEN }}
-          REPOSITORY: username/username.github.io
+          REPOSITORY: eatradish/eatradish.github.io
