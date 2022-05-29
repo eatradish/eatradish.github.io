@@ -1,5 +1,5 @@
 +++
-title = "关于"
+title = "關於"
 
 [extra]
 year = 2022
