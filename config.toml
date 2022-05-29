@@ -24,6 +24,9 @@ seje_menu_links = [
     {url = "$BASE_URL/atom.xml", name = "rss"}
 ]
 
+[languages.zh-tw]
+title = "Miracle Milk"
+
 [languages.zh-tw.translations]
 title = "Miracle Milk"
 home = "主頁"
