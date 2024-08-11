@@ -2,7 +2,7 @@
 base_url = "https://blog.miraclemilk.me"
 theme = "Seje2"
 default_language = "zh-tw"
-generate_feed = true
+generate_feeds = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
