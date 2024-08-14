@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://blog.miraclemilk.me"
 theme = "Seje2"
-default_language = "zh-tw"
+default_language = "zh-cn"
 generate_feeds = true
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -24,17 +24,17 @@ seje_menu_links = [
     {url = "$BASE_URL/atom.xml", name = "rss"}
 ]
 
-[languages.zh-tw]
+[languages.zh-cn]
 title = "Miracle Milk"
 
-[languages.zh-tw.translations]
+[languages.zh-cn.translations]
 title = "Miracle Milk"
-home = "主頁"
-archives = "歸檔"
-about = "關於"
-rss = "訂閱"
+home = "主页"
+archives = "归档"
+about = "关于"
+rss = "订阅"
 more = "查看全文"
-olderArticle = "舊文"
+olderArticle = "旧文"
 newer = "上一篇"
 older = "下一篇"
-loading = "加載中..."
+loading = "加载中..."
